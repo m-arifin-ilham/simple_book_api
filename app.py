@@ -103,7 +103,7 @@ def get_books():
     # Append limit and offset to the parameters
     params.extend([limit, offset])
 
-    books = conn.execute(sql_query, params).fetchall()
+    books = cursor.execute(sql_query, params).fetchall()
     conn.close()
     # Convert sqlite3.Row objects to dictionaries for jsonify
     books_list = [dict(book) for book in books]

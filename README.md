@@ -2,8 +2,8 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-2.x-lightgray.svg?logo=flask)](https://flask.palletsprojects.com/)
-[![SQLite](https://img.shield.io/badge/Database-SQLite-blue.svg?logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
-[![GitHub](https://img.shields.io/bagde/GitHub-Repo-brightgreen?style=flat&logo=github)]( -github url repo link here- )
+[![SQLite](https://img.shields.io/badge/Database-SQLite-blue.svg?logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-brightgreen?style=flat&logo=github)](https://github.com/m-arifin-ilham/simple_book_api)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
@@ -51,7 +51,7 @@ Follow these steps to set up and run the API locally on your machine.
 
 1.  **Clone the repository (or download the ZIP):**
     ```bash
-    git clone https://---github url---
+    git clone https://github.com/m-arifin-ilham/simple_book_api
     cd simple_book_api
     ```
 
@@ -294,5 +294,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 *Developed by [Muhammad Arifin Ilham](https://github.com/m-arifin-ilham)*
 
-* [Github](--github repo url--)
+* [Github](https://github.com/m-arifin-ilham/simple_book_api)
 * [Linkedin](https://www.linkedin.com/in/arifin-ilham-at-ska/)
